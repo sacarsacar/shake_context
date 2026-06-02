@@ -1,0 +1,27 @@
+# NOTE: when present, .pubignore *replaces* .gitignore for this directory,
+# so it must also carry the build/tooling excludes from .gitignore.
+
+# Internal development docs — not useful to package consumers.
+plans/
+
+# Local end-to-end test harness (a throwaway HTTP receiver).
+test_backend/
+
+# Editor / OS cruft.
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.metadata
+
+# Generated / local-only files (mirrors .gitignore).
+doc/
+build/
+.dart_tool/
+coverage/
+pubspec.lock
+.flutter-plugins-dependencies
+.github/
+*.log
