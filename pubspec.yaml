@@ -1,9 +1,9 @@
 name: shake_context
 description: "Dual-mode, privacy-first, shake-triggered bug reporting and user feedback engine for Flutter."
 version: 0.2.0
-homepage: https://github.com/sakarchaulagain/shake_context
-repository: https://github.com/sakarchaulagain/shake_context
-issue_tracker: https://github.com/sakarchaulagain/shake_context/issues
+homepage: https://github.com/sacarsacar/shake_context
+repository: https://github.com/sacarsacar/shake_context
+issue_tracker: https://github.com/sacarsacar/shake_context/issues
 
 topics:
   - bug-reporting

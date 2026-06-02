@@ -20,6 +20,23 @@ dependencies:
   shake_context: ^0.2.0
 ```
 
+## Demo
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Production Mode</b><br>
+      <img src="https://raw.githubusercontent.com/sacarsacar/shake_context/demo/prod_shake.gif" width="250" alt="Production Demo">
+    </td>
+    <td align="center" width="50%">
+      <b>Dev Mode</b><br>
+      <img src="https://raw.githubusercontent.com/sacarsacar/shake_context/demo/dev_shake.gif" width="250" alt="Dev Mode">
+    </td>
+  </tr>
+  <tr>
+   
+</table>
+
+
 ## Usage
 
 ```dart
